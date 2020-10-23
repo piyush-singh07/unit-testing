@@ -1,0 +1,10 @@
+com\test\categories\NegativeTest.class
+com\test\testclasses\DividerTest.class
+com\test\testclasses\MultiplierTest.class
+com\test\categories\PostiveTestSuite.class
+com\test\categories\NegativeTestSuite.class
+com\test\suite\MySubDivideSuite.class
+com\test\testclasses\AdderTest.class
+com\test\suite\MyAddMulSuite.class
+com\test\testclasses\SubtractTest.class
+com\test\categories\PositiveTest.class
